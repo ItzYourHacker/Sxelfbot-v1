@@ -22,7 +22,7 @@ python3 hacker.py
 The bot will now be active on your Discord account. Use commands as configured.
 
 2. Configuration
-config.json: Contains bot token, command prefix, and other customizable settings.
+utils.config: Contains user token, command prefix, and other customizable settings.
 
 # Contributing
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
