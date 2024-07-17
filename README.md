@@ -31,4 +31,4 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/ItzYourHacker/Sxelfbot-v1/blob/main/LICENSE) file for details.
 
 # Disclaimer
-Use of selfbots on Discord is against Discord's Terms of Service. Use this selfbot at your own risk.
+Use of sxlfbots on Discord is against Discord's Terms of Service. Use this sxlfbot at your own risk.
