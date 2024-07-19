@@ -1,5 +1,5 @@
 import os 
-os.system("pip install git+https://github.com/ItzYourHacker/discord.py-self")
+os.system("pip install -r requirements.txt")
 import discord
 from discord.ext import commands
 from utils.config import *
